@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+    <html lang="en">
+<head>
+  <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body bgcolor="steelblue">
+
+  
+<center>
+    <font color="brown" face="Cursive" size="12">  My Profile </font> 
+</center>    
+  </h1>
+  <hr width="80%" color="lemonchiffon" size="5" align="left">
+  <hr width="75%" color="brown" size="5" align="right">
+
+  <center align="center">
+    <img src="c:\Users\Nia Rahmawati\Pictures\foto\c:\Users\asus\Downloads\foto nia.jpeg" alt="Image" width="270" height="325">
+ </center>
+        <p align="center">
+    <b> ● Nama : Nia Rahmawati </b>
+  </p>
+
+        <p align="center">
+    <b> ● NIM : 2230803137 </b>
+  </p>
+
+        <p align="center">
+    <b> ● Kelas : 2283E </b>
+  </p>
+
+        <p align="center">
+    <b> ● Tempat, Tanggal Lahir : Muara Padang, 16 maret 2005 </b>
+  </p>
+
+        <p align="center">
+    <b>● Alamat : Perindustrian 1 km9   </b>
+  </p>
+
+  <center>
+   <h3 <font color="brown" face="Sishoni brush" size="6"> ● Riwayat Pendidikan  </font></h3>
+        </center>
+
+
+        <p align ="center">
+    <b> SD/MI : SDN Muara padang </b>
+    </p>
+  
+        <p align ="center">
+    <b> SMP/MTS : SMPN 40 Palembang </b>
+  </p>
+  
+  <p align ="center">
+    <b> SMA/K : SMKN 2 Palembang </b>
+  </p>
+  
+        <p align ="center">
+    <b> Email : niaa160305@gmail.com </b>
+  </p>
+  
+        <p align ="center">
+    <b>Hompage : https://github.com/niarahmawati2005/projekwebb </b>
+  </p>
+  
+        <p align ="center">
+    <b> Hobby : Olahraga </b>
+  </p>
+  
+        <p align ="center">
+    <b> Deskripsi Pribadi : ........ </b>
+  </p>
+  
+</body>
+</html>
